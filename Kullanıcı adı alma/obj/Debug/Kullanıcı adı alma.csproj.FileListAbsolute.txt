@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\bin\Debug\Kullanıcı adı alma.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\bin\Debug\Kullanıcı adı alma.exe
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\bin\Debug\Kullanıcı adı alma.pdb
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı adı alma.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı_adı_alma.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı_adı_alma.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı adı alma.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı adı alma.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı adı alma.exe
+C:\Users\Win10\Desktop\ilkay py\c\Kullanıcı adı alma\Kullanıcı adı alma\obj\Debug\Kullanıcı adı alma.pdb
